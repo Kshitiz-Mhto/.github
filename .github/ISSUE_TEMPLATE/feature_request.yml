@@ -2,7 +2,7 @@ name: 🚀 Feature Request
 description: I have a suggestion (and might want to implement myself 🙂)!
 title: Hello world
 labels:
-  - help-wanted, proposal, under-discussion
+  - proposal
 body:
   - type: checkboxes
     attributes:
