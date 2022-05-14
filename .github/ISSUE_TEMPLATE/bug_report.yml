@@ -1,8 +1,7 @@
 name: 🐛 Bug Report
 description: If something isn't working as expected 🤔.
-title: "[BUG] <title>"
+title: ''
 labels: ["bug", " help wanted"]
-assignees: "[BUG] <assignees"
 body:
   - type: checkboxes
     attributes:
