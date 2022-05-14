@@ -1,8 +1,0 @@
-blank_issues_enabled: true
-
-contact_links:
-  - name: 🙏 Support Question
-    labels:
-      - questions
-    url: https://github.com/spaceship-prompt/spaceship-prompt/discussions/new?category=q-a
-    about: Please ask and answer questions here.
