@@ -1,10 +1,7 @@
 name: 🚀 Feature Request
 description: I have a suggestion (and might want to implement myself 🙂)!
 title: Hello world
-labels:
-  - proposal
-  - help-wanted, proposal, under-discussion
-labels: ["help-wanted", "proposal", "under-discussion"]
+labels: ["help-wanted ", "proposal ", "under-discussion "]
 body:
   - type: checkboxes
     attributes:
