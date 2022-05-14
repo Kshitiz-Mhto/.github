@@ -2,6 +2,7 @@ name: 🐛 Bug Report
 description: If something isn't working as expected 🤔.
 labels:
   - bug
+  - help wanted
 body:
   - type: checkboxes
     attributes:
