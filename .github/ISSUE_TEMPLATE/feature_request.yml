@@ -1,6 +1,7 @@
 name: 🚀 Feature Request
 description: I have a suggestion (and might want to implement myself 🙂)!
-labels: [help-wanted, proposal, under-discussion]
+title: "[FEATURE]"
+labels: ["help-wanted", " proposal", " under-discussion"]
 body:
   - type: checkboxes
     attributes:
