@@ -3,6 +3,8 @@ description: If something isn't working as expected 🤔.
 title: "[BUG]"
 labels: 
   - bug
+  -
+  - buggy
 body:
   - type: checkboxes
     attributes:
