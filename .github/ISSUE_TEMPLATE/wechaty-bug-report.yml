@@ -2,7 +2,6 @@ name: 🐞 Wechaty Bug Report
 description: Create a bug report for a bug you found in wechaty. 
 title: "[Bug]: "
 labels: bug
-assignees: ""
 body: 
   - type: checkboxes
     attributes:
