@@ -96,7 +96,6 @@ body:
         ```
 
         </details>
-      render: markdown
   - type: textarea
     id: addition
     attributes:
