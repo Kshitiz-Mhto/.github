@@ -2,6 +2,7 @@ name: 🐞 Wechaty Bug Report
 description: Create a bug report for a bug you found in wechaty. 
 title: "[Bug]: "
 labels: bug
+assignees: ""
 body: 
   - type: checkboxes
     attributes:
@@ -51,8 +52,8 @@ body:
   - type: textarea
     attributes:
       label: Steps To Reproduce
-      description: Steps to reproduce the behavior.
-      placeholder: |
+      description: |
+        Steps to reproduce the behavior.
         This part is very important: if you can not provide any reproduce steps,then the problem will be very hard to be recognized.
         [How to create a Minimal, Reproducible Example](https://stackoverflow.com/help/minimal-reproducible-example)
         Steps to reproduce the behavior:
@@ -94,7 +95,7 @@ body:
         $ WECHATY_LOG=silly node yourbot.js
         -> Make sure to copy/paste the full (instead of only fragments) log message in text format (instead of image/screenshot) at here
         ```
-
+        
         </details>
   - type: textarea
     id: addition
