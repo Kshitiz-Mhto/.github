@@ -19,7 +19,6 @@ body:
     options:
     - label: I have searched the existing issues
       required: true
-    render: markdown
   - type: textarea
     attributes:
     label: Environment
