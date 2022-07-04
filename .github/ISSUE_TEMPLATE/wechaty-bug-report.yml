@@ -1,5 +1,5 @@
 name: 🐛 Wechaty Bug Report
-description: Create a bug report for a bug you found in wechaty. 
+description: Create a bug report for a bug, you found in wechaty. 
 title: "[Bug]: "
 labels: bug
 body: 
@@ -28,7 +28,7 @@ body:
               - **puppeteer**
               - **padlocal**
               - **service...**
-          - Your wechaty-puppet-XXX(padchat/puppeteer/） version?
+          - Your wechaty-puppet-XXX (padchat/puppeteer/） version?
           - Your node version?
           - Os you are using?
       value: |
