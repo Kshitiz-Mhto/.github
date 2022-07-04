@@ -2,7 +2,7 @@ name: 🐞 Wechaty Bug Report
 description: Create a bug report for a bug you found in wechaty. 
 title: "[Bug]: "
 labels: bug
-assignees: ""
+assignees: " "
 body: 
   - type: checkboxes
     attributes:
@@ -16,10 +16,10 @@ body:
             ```
         * Please search in [FAQ List](https://wechaty.js.org/faq) first, and make sure your problem has not been solved before.
         * Please search in the issue first, and make sure your problem had not been reported before.
+      render: markdown
       options:
       - label: I have searched the existing issues
         required: true
-      render: markdown
   - type: textarea
     attributes:
       label: Environment
